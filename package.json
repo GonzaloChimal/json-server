@@ -99,6 +99,6 @@
     "node": ">=12"
   },
   "jest": {
-    "testURL": "http://localhost/"
+    "testURL": "http://localhost:3000/"
   }
 }
